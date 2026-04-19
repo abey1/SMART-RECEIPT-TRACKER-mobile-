@@ -112,7 +112,8 @@ EXTRA REQUIREMENTS
 FUTURE EXTENSIONS (prepare structure)
 -----------------------------------
 - Backend API integration
-- AI receipt parsing (OCR)
+- AI receipt parsing (OCR) azure document intellignce
+- Database mongo db to store receipt images
 - Spending categorization
 - AI financial advice
 
